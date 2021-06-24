@@ -124,7 +124,7 @@ transition: 200ms;
 
 }
 
-@media screen and (max-device-width: 400px) {
+@media screen and (max-device-width: 900px) {
 
 div{
 
@@ -145,7 +145,7 @@ margin-left: 20%;
 
 div{
 margin-top: 350px;
-margin-left: 1;
+margin-left:;
 
 
 }
