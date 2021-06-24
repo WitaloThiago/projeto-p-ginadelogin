@@ -1,4 +1,24 @@
+*{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
 body{
   background-image: url(/imagem/fundo.jpg);  
 background-clip: border-box;
+}
+
+div{
+background-color: white;
+width: 400px;
+position: absolute;
+-webkit-box-shadow: -5px 0px 8px 5px rgba(107,107,107,0.64); 
+box-shadow: -5px 0px 8px 5px rgba(107,107,107,0.64);
+
+}
+
+.l{
+text-align: center;
+
 }
