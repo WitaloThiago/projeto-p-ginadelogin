@@ -15,10 +15,13 @@ width: 400px;
 position: absolute;
 -webkit-box-shadow: -5px 0px 8px 5px rgba(107,107,107,0.64); 
 box-shadow: -5px 0px 8px 5px rgba(107,107,107,0.64);
+margin-top: 25%;
+margin-left: 50%;
+transform: translate(-50%, -50%);
 
 }
 
 .l{
 text-align: center;
-
+background-color: ;
 }
