@@ -1,3 +1,4 @@
 body{
   background-image: url(/imagem/fundo.jpg);  
+background-clip: border-box;
 }
